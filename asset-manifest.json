@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/resume-website/static/css/main.3f6f568b.chunk.css",
+    "main.js": "/resume-website/static/js/main.82957bfe.chunk.js",
+    "main.js.map": "/resume-website/static/js/main.82957bfe.chunk.js.map",
+    "runtime-main.js": "/resume-website/static/js/runtime-main.c8bbe0de.js",
+    "runtime-main.js.map": "/resume-website/static/js/runtime-main.c8bbe0de.js.map",
+    "static/js/2.a91f797d.chunk.js": "/resume-website/static/js/2.a91f797d.chunk.js",
+    "static/js/2.a91f797d.chunk.js.map": "/resume-website/static/js/2.a91f797d.chunk.js.map",
+    "index.html": "/resume-website/index.html",
+    "static/css/main.3f6f568b.chunk.css.map": "/resume-website/static/css/main.3f6f568b.chunk.css.map",
+    "static/js/2.a91f797d.chunk.js.LICENSE.txt": "/resume-website/static/js/2.a91f797d.chunk.js.LICENSE.txt",
+    "static/media/Y{K}652GRJ4Z0_M7$$~DH@Q.4d07b840.png": "/resume-website/static/media/Y{K}652GRJ4Z0_M7$$~DH@Q.4d07b840.png",
+    "static/media/github.d99c4a72.svg": "/resume-website/static/media/github.d99c4a72.svg",
+    "static/media/xiaoznz.a984d72a.jpg": "/resume-website/static/media/xiaoznz.a984d72a.jpg",
+    "static/media/~WJKMJ4{)(((0$]OTNASKLO.dce1a7b6.png": "/resume-website/static/media/~WJKMJ4{)(((0$]OTNASKLO.dce1a7b6.png",
+    "static/media/掘金.ffc28c6d.svg": "/resume-website/static/media/掘金.ffc28c6d.svg",
+    "static/media/简书.ec2648de.svg": "/resume-website/static/media/简书.ec2648de.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8bbe0de.js",
+    "static/js/2.a91f797d.chunk.js",
+    "static/css/main.3f6f568b.chunk.css",
+    "static/js/main.82957bfe.chunk.js"
+  ]
+}
